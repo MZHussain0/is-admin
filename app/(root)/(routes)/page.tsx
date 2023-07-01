@@ -13,5 +13,5 @@ export default function SetupPage() {
     }
   }, [isOpen, onOpen]);
 
-  return <div className="">Root Page</div>;
+  return null;
 }
